@@ -35,13 +35,13 @@ Bu özellik, veri güvenliğine öncelik veren büyük ölçekli şirketler içi
 
 1. Ortam Kurulumu
 
-'''bash
+```bash
 git clone https://github.com/ozeraysenur/FDeep.AIChatbot.git
 cd FDeep.AIChatbot
 python -m venv .venv
 .venv\Scripts\activate  # MacOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
-'''
+```
 ------------
 
 Takım Adı: FDeep.AI
@@ -51,8 +51,11 @@ Teknofest 2025 Türkçe Doğal Dil İşleme Yarışması Serbest Kategori için 
 
 Takım Üyeleri
 Feyza Kıranlıoğlu GitHub: https://github.com/feyzakir
+
 Derin Çıvgın GitHub: https://github.com/Derincvgn
+
 Ayşe Nur Özer GitHub: https://github.com/ozeraysenur
+
 Ləman Osmanlı GitHub: https://github.com/Leman2006
 
 ------------
