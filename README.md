@@ -14,7 +14,18 @@ Sistem:
 Tüm sistem *yerel ortamda çalışır* ve bu sayede *veri gizliliği %100 güvence* altına alınır.  
 Bu özellik, veri güvenliğine öncelik veren büyük ölçekli şirketler için de önemli bir tercih sebebidir.
 
----
+------------
+
+Takım Üyeleri
+Feyza Kıranlıoğlu GitHub: https://github.com/feyzakir
+
+Derin Çıvgın GitHub: https://github.com/Derincvgn
+
+Ayşe Nur Özer GitHub: https://github.com/ozeraysenur
+
+Ləman Osmanlı GitHub: https://github.com/Leman2006
+
+------------
 
 ## Kullanılan Teknolojiler ve Mimariler  
 
@@ -33,7 +44,7 @@ Bu özellik, veri güvenliğine öncelik veren büyük ölçekli şirketler içi
 
 ## Kurulum Talimatları
 
-1. Ortam Kurulumu
+Ortam Kurulumu
 
 ```bash
 git clone https://github.com/ozeraysenur/FDeep.AIChatbot.git
@@ -49,24 +60,8 @@ Teknofest 2025 Türkçe Doğal Dil İşleme Yarışması Serbest Kategori için 
 
 ------------
 
-Takım Üyeleri
-Feyza Kıranlıoğlu GitHub: https://github.com/feyzakir
 
-Derin Çıvgın GitHub: https://github.com/Derincvgn
-
-Ayşe Nur Özer GitHub: https://github.com/ozeraysenur
-
-Ləman Osmanlı GitHub: https://github.com/Leman2006
-
-------------
-
-2. PDF Veri Setini Ekleme
-Proje, `dijitalpazarlama_reklamkaynakları` adlı klasör altında PDF belgesiyle birlikte gelir.
-Bu klasör, `main.py` çalıştırıldığında otomatik olarak yüklenir. Ekstra bir bağlantıya ihtiyaç yoktur.
-
- ------------
-
-3. Uygulamayı Başlatma
+Uygulamayı Başlatma
 ```bash
 streamlit run main.py
 ```
