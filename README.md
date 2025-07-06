@@ -67,5 +67,6 @@ Bu klasör, `main.py` çalıştırıldığında otomatik olarak yüklenir. Ekstr
  ------------
 
 3. Uygulamayı Başlatma
-bash
-streamlit run main.py 
+```bash
+streamlit run main.py
+```
