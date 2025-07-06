@@ -13,7 +13,7 @@ st.title("📈 Dijital Pazarlama ve Dijital Reklamcılık Chatbot'u 🤖 ")
 st.markdown("Kişisel dijital pazarlama asistanınız 🤖 ")
 
 # Belge klasörü yolu
-PDF_FOLDER = r"C:\Users\feyza\OneDrive\Masaüstü\teknofest_chatbot\dijitalpazarlama_reklamkaynakları"
+PDF_FOLDER = r"fdeepbelge.pdf"
 
 # Belgeleri yükle ve vektör oluştur
 with st.spinner("Belgeler işleniyor..."):
